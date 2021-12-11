@@ -1,0 +1,129 @@
+@charset "UTF-8";
+body {
+  background-color: rgba(128, 128, 128, 0.301);
+}
+
+.day .paintball {
+  width: 100%;
+  padding: 20px 20px;
+  -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+          box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.day .paintball p {
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.day .day-img {
+  width: 100%;
+}
+
+.day .carting {
+  width: 100%;
+  width: 100%;
+  padding: 20px 20px;
+  -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+          box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+  border-radius: 4px;
+  background-color: #fff;
+  margin-top: 20px;
+}
+
+.day .carting p {
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.day .carting-img {
+  margin-top: 50px;
+}
+
+.day .tenis {
+  width: 100%;
+  padding: 20px 20px;
+  -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+          box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.day .tenis p {
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.day .bowling-img img {
+  margin-top: 30px;
+}
+
+.day .bowling {
+  width: 100%;
+  padding: 20px 20px;
+  -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+          box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.day .bowling p {
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.day .velo {
+  width: 100%;
+  padding: 20px 20px;
+  -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+          box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.day .velo p {
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.day .velo-img {
+  margin-top: 50px;
+}
+
+.day .dağ {
+  width: 100%;
+  padding: 20px 20px;
+  -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+          box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.day .dağ p {
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.day .dağ-img {
+  margin-top: 50px;
+}
+
+.day .parachute-img {
+  margin-top: 50px;
+}
+
+.day .parachute {
+  width: 100%;
+  padding: 20px 20px;
+  -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+          box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.316);
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.day .parachute p {
+  font-family: sans-serif;
+  font-weight: 300;
+}
+/*# sourceMappingURL=style.css.map */
